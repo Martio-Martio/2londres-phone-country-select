@@ -2,9 +2,7 @@
 
 Searchable phone country code selector with per-country digit validation for React.
 
-<p align="center">
-  <img src="./assets/demo.png" alt="Phone Country Select demo" width="600" />
-</p>
+![Phone Country Select demo](./assets/demo.png)
 
 - Searchable combobox (by country name, ISO code, or calling code)
 - Built-in phone number length validation per country (ITU-T E.164)
@@ -108,6 +106,18 @@ export function MyPhoneField() {
 ## Styling
 
 Import `@2londres/phone-country-select/styles.css` for default styles, or target the `pcs-*` CSS classes for custom styling.
+
+## Publishing
+
+```bash
+# 1. Bump version
+pnpm version patch  # or minor / major
+
+# 2. Build & publish
+pnpm publish --access public --no-git-checks
+```
+
+> npm will prompt for OTP if 2FA is enabled on your account.
 
 ## License
 

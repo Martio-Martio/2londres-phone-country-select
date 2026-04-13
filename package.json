@@ -1,6 +1,6 @@
 {
   "name": "@2londres/phone-country-select",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "YVES MARTIAL BOAH",
   "email": "managerboah@gmail.com",
   "description": "Searchable phone country code selector with per-country digit validation for React",
@@ -60,7 +60,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/klemi-tech/phone-country-select"
+    "url": "https://github.com/Martio-Martio/2londres-phone-country-select"
   },
   "sideEffects": [
     "*.css"
