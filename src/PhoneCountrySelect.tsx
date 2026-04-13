@@ -48,9 +48,6 @@ export const PhoneCountrySelect = ({
       <PopoverTrigger asChild>
         <button
           type="button"
-          role="combobox"
-          aria-expanded={open}
-          aria-controls="pcs-country-list"
           aria-label={selected ? `${selected.text} ${selected.callingCodes}` : selectPlaceholder}
           disabled={disabled}
           className={[
