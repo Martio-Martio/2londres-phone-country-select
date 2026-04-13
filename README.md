@@ -1,6 +1,10 @@
-# @klemi/phone-country-select
+# @2londres/phone-country-select
 
 Searchable phone country code selector with per-country digit validation for React.
+
+<p align="center">
+  <img src="./assets/demo.png" alt="Phone Country Select demo" width="600" />
+</p>
 
 - Searchable combobox (by country name, ISO code, or calling code)
 - Built-in phone number length validation per country (ITU-T E.164)
@@ -12,9 +16,9 @@ Searchable phone country code selector with per-country digit validation for Rea
 ## Install
 
 ```bash
-pnpm add @klemi/phone-country-select
+pnpm add @2londres/phone-country-select
 # or
-npm install @klemi/phone-country-select
+npm install @2londres/phone-country-select
 ```
 
 ## Quick start
@@ -22,8 +26,8 @@ npm install @klemi/phone-country-select
 ### PhoneCountrySelect (standalone selector)
 
 ```tsx
-import { PhoneCountrySelect } from "@klemi/phone-country-select";
-import "@klemi/phone-country-select/styles.css";
+import { PhoneCountrySelect } from "@2londres/phone-country-select";
+import "@2londres/phone-country-select/styles.css";
 import { useState } from "react";
 
 export function MyForm() {
@@ -43,8 +47,13 @@ export function MyForm() {
 ### PhoneInput (selector + input with validation)
 
 ```tsx
-import { PhoneInput, validatePhoneNumber, buildFullPhoneNumber, findCountryByCallingCode } from "@klemi/phone-country-select";
-import "@klemi/phone-country-select/styles.css";
+import {
+  PhoneInput,
+  validatePhoneNumber,
+  buildFullPhoneNumber,
+  findCountryByCallingCode,
+} from "@2londres/phone-country-select";
+import "@2londres/phone-country-select/styles.css";
 import { useState } from "react";
 
 export function MyPhoneField() {
@@ -66,9 +75,17 @@ export function MyPhoneField() {
         onCallingCodeChange={setCallingCode}
         phoneNumber={phone}
         onPhoneNumberChange={setPhone}
-        error={!valid ? (error === "too_short" ? "Too short" : "Too long") : undefined}
+        error={
+          !valid
+            ? error === "too_short"
+              ? "Too short"
+              : "Too long"
+            : undefined
+        }
       />
-      <button onClick={handleSubmit} disabled={!valid || !phone}>Save</button>
+      <button onClick={handleSubmit} disabled={!valid || !phone}>
+        Save
+      </button>
     </div>
   );
 }
@@ -76,21 +93,21 @@ export function MyPhoneField() {
 
 ## Utilities
 
-| Function | Description |
-|---|---|
-| `getCountryList()` | Returns filtered list of countries |
-| `findCountryByCallingCode(code)` | Find country by calling code |
-| `findCountryByCode(iso)` | Find country by ISO code |
+| Function                               | Description                               |
+| -------------------------------------- | ----------------------------------------- |
+| `getCountryList()`                     | Returns filtered list of countries        |
+| `findCountryByCallingCode(code)`       | Find country by calling code              |
+| `findCountryByCode(iso)`               | Find country by ISO code                  |
 | `parseFullPhoneNumber("+22912345678")` | Parse into `{ callingCode, localNumber }` |
-| `buildFullPhoneNumber(code, local)` | Combine calling code + local digits |
-| `validatePhoneNumber(local, iso?)` | Validate digit count for country |
-| `getPhoneMaxDigits(iso?)` | Get max local digits for country |
-| `getPhoneMinDigits()` | Get min digits (6) |
-| `clampPhoneDigits(input, iso?)` | Strip non-digits & clamp to max |
+| `buildFullPhoneNumber(code, local)`    | Combine calling code + local digits       |
+| `validatePhoneNumber(local, iso?)`     | Validate digit count for country          |
+| `getPhoneMaxDigits(iso?)`              | Get max local digits for country          |
+| `getPhoneMinDigits()`                  | Get min digits (6)                        |
+| `clampPhoneDigits(input, iso?)`        | Strip non-digits & clamp to max           |
 
 ## Styling
 
-Import `@klemi/phone-country-select/styles.css` for default styles, or target the `pcs-*` CSS classes for custom styling.
+Import `@2londres/phone-country-select/styles.css` for default styles, or target the `pcs-*` CSS classes for custom styling.
 
 ## License
 
