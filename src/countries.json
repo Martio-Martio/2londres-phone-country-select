@@ -1,0 +1,2041 @@
+[
+  {
+    "name": "Benin",
+    "callingCodes": "+229",
+    "text": "Bénin",
+    "map": "🇧🇯",
+    "code": "BJ",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q962"
+  },
+  {
+    "name": "Senegal",
+    "callingCodes": "+221",
+    "text": "Sénégal",
+    "map": "🇸🇳",
+    "code": "SN",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q1041"
+  },
+  {
+    "name": "Ivory Coast",
+    "callingCodes": "+225",
+    "text": "Côte d'Ivoire",
+    "map": "🇨🇮",
+    "code": "CI",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q1008"
+  },
+  {
+    "name": "Cameroon",
+    "callingCodes": "+237",
+    "text": "Cameroun",
+    "map": "🇨🇲",
+    "code": "CM",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q1009"
+  },
+  {
+    "name": "Burkina Faso",
+    "callingCodes": "+226",
+    "text": "Burkina Faso",
+    "map": "🇧🇫",
+    "code": "BF",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q965"
+  },
+  {
+    "name": "Nigeria",
+    "callingCodes": "+234",
+    "text": "Nigéria",
+    "map": "🇳🇬",
+    "code": "NG",
+    "currencyCodes": ["NGN"],
+    "wikiDataId": "Q1033"
+  },
+  {
+    "name": "Niger",
+    "callingCodes": "+227",
+    "text": "Niger",
+    "map": "🇳🇪",
+    "code": "NE",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q1032"
+  },
+  {
+    "name": "DR Congo",
+    "callingCodes": "+243",
+    "text": "Congo (Rép. dém.)",
+    "map": "🇨🇩"
+  },
+  {
+    "name": "Gabon",
+    "callingCodes": "+241",
+    "text": "Gabon",
+    "map": "🇬🇦",
+    "code": "GA",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q1000"
+  },
+  {
+    "name": "Mali",
+    "callingCodes": "+223",
+    "text": "Mali",
+    "map": "🇲🇱",
+    "code": "ML",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q912"
+  },
+  {
+    "name": "Guinea",
+    "callingCodes": "+224",
+    "text": "Guinée",
+    "map": "🇬🇳",
+    "code": "GN",
+    "currencyCodes": ["GNF"],
+    "wikiDataId": "Q1006"
+  },
+  {
+    "name": "South Africa",
+    "callingCodes": "+27",
+    "text": "Afrique du Sud",
+    "map": "🇿🇦",
+    "code": "ZA",
+    "currencyCodes": ["ZAR"],
+    "wikiDataId": "Q258"
+  },
+  {
+    "name": "Algeria",
+    "callingCodes": "+213",
+    "text": "Algérie",
+    "map": "🇩🇿",
+    "code": "DZ",
+    "currencyCodes": ["DZD"],
+    "wikiDataId": "Q262"
+  },
+  {
+    "name": "Kenya",
+    "callingCodes": "+254",
+    "text": "Kenya",
+    "map": "🇰🇪",
+    "code": "KE",
+    "currencyCodes": ["KES"],
+    "wikiDataId": "Q114"
+  },
+  {
+    "name": "France",
+    "callingCodes": "+33",
+    "text": "France",
+    "map": "🇫🇷",
+    "code": "FR",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q142"
+  },
+  {
+    "name": "Malaysia",
+    "callingCodes": "+60",
+    "text": "Malaisie",
+    "map": "🇲🇾",
+    "code": "MY",
+    "currencyCodes": ["MYR"],
+    "wikiDataId": "Q833"
+  },
+  {
+    "name": "Haiti",
+    "callingCodes": "+509",
+    "text": "Haïti",
+    "map": "🇭🇹",
+    "code": "HT",
+    "currencyCodes": ["HTG"],
+    "wikiDataId": "Q790"
+  },
+  {
+    "name": "Tajikistan",
+    "callingCodes": "+992",
+    "text": "Tadjikistan",
+    "map": "🇹🇯",
+    "code": "TJ",
+    "currencyCodes": ["TJS"],
+    "wikiDataId": "Q863"
+  },
+  {
+    "name": "American Samoa",
+    "callingCodes": "+1684",
+    "text": "Samoa américaines",
+    "map": "🇦🇸"
+  },
+  {
+    "name": "Italy",
+    "callingCodes": "+39",
+    "text": "Italie",
+    "map": "🇮🇹",
+    "code": "IT",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q38"
+  },
+  {
+    "name": "Mexico",
+    "callingCodes": "+52",
+    "text": "Mexique",
+    "map": "🇲🇽",
+    "code": "MX",
+    "currencyCodes": ["MXN"],
+    "wikiDataId": "Q96"
+  },
+  {
+    "name": "North Macedonia",
+    "callingCodes": "+389",
+    "text": "Macédoine du Nord",
+    "map": "🇲🇰",
+    "code": "MK",
+    "currencyCodes": ["MKD"],
+    "wikiDataId": "Q221"
+  },
+  {
+    "name": "Samoa",
+    "callingCodes": "+685",
+    "text": "Samoa",
+    "map": "🇼🇸",
+    "code": "WS",
+    "currencyCodes": ["WST"],
+    "wikiDataId": "Q683"
+  },
+  {
+    "name": "Guernsey",
+    "callingCodes": "+44",
+    "text": "Guernesey",
+    "map": "🇬🇬"
+  },
+  {
+    "name": "Laos",
+    "callingCodes": "+856",
+    "text": "Laos",
+    "map": "🇱🇦",
+    "code": "LA",
+    "currencyCodes": ["LAK"],
+    "wikiDataId": "Q819"
+  },
+  {
+    "name": "Namibia",
+    "callingCodes": "+264",
+    "text": "Namibie",
+    "map": "🇳🇦",
+    "code": "NA",
+    "currencyCodes": ["NAD", "ZAR"],
+    "wikiDataId": "Q1030"
+  },
+  {
+    "name": "British Virgin Islands",
+    "callingCodes": "+1284",
+    "text": "Îles Vierges britanniques",
+    "map": "🇻🇬"
+  },
+  {
+    "name": "Cayman Islands",
+    "callingCodes": "+1345",
+    "text": "Îles Caïmans",
+    "map": "🇰🇾"
+  },
+  {
+    "name": "Egypt",
+    "callingCodes": "+20",
+    "text": "Égypte",
+    "map": "🇪🇬",
+    "code": "EG",
+    "currencyCodes": ["EGP"],
+    "wikiDataId": "Q79"
+  },
+  {
+    "name": "Cambodia",
+    "callingCodes": "+855",
+    "text": "Cambodge",
+    "map": "🇰🇭",
+    "code": "KH",
+    "currencyCodes": ["KHR"],
+    "wikiDataId": "Q424"
+  },
+  {
+    "name": "Cook Islands",
+    "callingCodes": "+682",
+    "text": "Îles Cook",
+    "map": "🇨🇰",
+    "code": "CK",
+    "currencyCodes": ["NZD", "CKD"],
+    "wikiDataId": "Q26988"
+  },
+  {
+    "name": "Seychelles",
+    "callingCodes": "+248",
+    "text": "Seychelles",
+    "map": "🇸🇨",
+    "code": "SC",
+    "currencyCodes": ["SCR"],
+    "wikiDataId": "Q1042"
+  },
+  {
+    "name": "Israel",
+    "callingCodes": "+972",
+    "text": "Israël",
+    "map": "🇮🇱",
+    "code": "IL",
+    "currencyCodes": ["ILS"],
+    "wikiDataId": "Q801"
+  },
+  {
+    "name": "Bolivia",
+    "callingCodes": "+591",
+    "text": "Bolivie",
+    "map": "🇧🇴",
+    "code": "BO",
+    "currencyCodes": ["BOB"],
+    "wikiDataId": "Q750"
+  },
+  {
+    "name": "United Arab Emirates",
+    "callingCodes": "+971",
+    "text": "Émirats arabes unis",
+    "map": "🇦🇪",
+    "code": "AE",
+    "currencyCodes": ["AED"],
+    "wikiDataId": "Q878"
+  },
+  {
+    "name": "Grenada",
+    "callingCodes": "+1473",
+    "text": "Grenade",
+    "map": "🇬🇩",
+    "code": "GD",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q769"
+  },
+  {
+    "name": "China",
+    "callingCodes": "+86",
+    "text": "Chine",
+    "map": "🇨🇳"
+  },
+  {
+    "name": "Greenland",
+    "callingCodes": "+299",
+    "text": "Groenland",
+    "map": "🇬🇱"
+  },
+  {
+    "name": "Vanuatu",
+    "callingCodes": "+678",
+    "text": "Vanuatu",
+    "map": "🇻🇺",
+    "code": "VU",
+    "currencyCodes": ["VUV"],
+    "wikiDataId": "Q686"
+  },
+  {
+    "name": "Nauru",
+    "callingCodes": "+674",
+    "text": "Nauru",
+    "map": "🇳🇷",
+    "code": "NR",
+    "currencyCodes": ["AUD"],
+    "wikiDataId": "Q697"
+  },
+  {
+    "name": "Micronesia",
+    "callingCodes": "+691",
+    "text": "Micronésie",
+    "map": "🇫🇲"
+  },
+  {
+    "name": "Solomon Islands",
+    "callingCodes": "+677",
+    "text": "Îles Salomon",
+    "map": "🇸🇧",
+    "code": "SB",
+    "currencyCodes": ["SBD"],
+    "wikiDataId": "Q685"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "callingCodes": "+1340",
+    "text": "Îles Vierges des États-Unis",
+    "map": "🇻🇮"
+  },
+  {
+    "name": "Turkey",
+    "callingCodes": "+90",
+    "text": "Turquie",
+    "map": "🇹🇷",
+    "code": "TR",
+    "currencyCodes": ["TRY"],
+    "wikiDataId": "Q43"
+  },
+  {
+    "name": "Kuwait",
+    "callingCodes": "+965",
+    "text": "Koweït",
+    "map": "🇰🇼",
+    "code": "KW",
+    "currencyCodes": ["KWD"],
+    "wikiDataId": "Q817"
+  },
+  {
+    "name": "Burundi",
+    "callingCodes": "+257",
+    "text": "Burundi",
+    "map": "🇧🇮",
+    "code": "BI",
+    "currencyCodes": ["BIF"],
+    "wikiDataId": "Q967"
+  },
+  {
+    "name": "Serbia",
+    "callingCodes": "+381",
+    "text": "Serbie",
+    "map": "🇷🇸",
+    "code": "RS",
+    "currencyCodes": ["RSD"],
+    "wikiDataId": "Q403"
+  },
+  {
+    "name": "Brunei",
+    "callingCodes": "+673",
+    "text": "Brunei",
+    "map": "🇧🇳",
+    "code": "BN",
+    "currencyCodes": ["BND"],
+    "wikiDataId": "Q921"
+  },
+  {
+    "name": "Bahamas",
+    "callingCodes": "+1242",
+    "text": "Bahamas",
+    "map": "🇧🇸"
+  },
+  {
+    "name": "Bahrain",
+    "callingCodes": "+973",
+    "text": "Bahreïn",
+    "map": "🇧🇭",
+    "code": "BH",
+    "currencyCodes": ["BHD"],
+    "wikiDataId": "Q398"
+  },
+  {
+    "name": "Dominican Republic",
+    "callingCodes": "+1809",
+    "text": "République dominicaine",
+    "map": "🇩🇴",
+    "code": "DO",
+    "currencyCodes": ["DOP"],
+    "wikiDataId": "Q786"
+  },
+  {
+    "name": "Curaçao",
+    "callingCodes": "+599",
+    "text": "Curaçao",
+    "map": "🇨🇼"
+  },
+  {
+    "name": "Norfolk Island",
+    "callingCodes": "+672",
+    "text": "Île Norfolk",
+    "map": "🇳🇫"
+  },
+  {
+    "name": "North Korea",
+    "callingCodes": "+850",
+    "text": "Corée du Nord",
+    "map": "🇰🇵",
+    "code": "KP",
+    "currencyCodes": ["KPW"],
+    "wikiDataId": "Q423"
+  },
+  {
+    "name": "Tokelau",
+    "callingCodes": "+690",
+    "text": "Tokelau",
+    "map": "🇹🇰"
+  },
+  {
+    "name": "South Sudan",
+    "callingCodes": "+211",
+    "text": "Soudan du Sud",
+    "map": "🇸🇸",
+    "code": "SS",
+    "currencyCodes": ["SSP"],
+    "wikiDataId": "Q958"
+  },
+  {
+    "name": "Aruba",
+    "callingCodes": "+297",
+    "text": "Aruba",
+    "map": "🇦🇼"
+  },
+  {
+    "name": "Czechia",
+    "callingCodes": "+420",
+    "text": "Tchéquie",
+    "map": "🇨🇿"
+  },
+  {
+    "name": "Guadeloupe",
+    "callingCodes": "+590",
+    "text": "Guadeloupe",
+    "map": "🇬🇵"
+  },
+  {
+    "name": "Syria",
+    "callingCodes": "+963",
+    "text": "Syrie",
+    "map": "🇸🇾",
+    "code": "SY",
+    "currencyCodes": ["SYP"],
+    "wikiDataId": "Q858"
+  },
+  {
+    "name": "Marshall Islands",
+    "callingCodes": "+692",
+    "text": "Îles Marshall",
+    "map": "🇲🇭",
+    "code": "MH",
+    "currencyCodes": ["USD"],
+    "wikiDataId": "Q709"
+  },
+  {
+    "name": "Tanzania",
+    "callingCodes": "+255",
+    "text": "Tanzanie",
+    "map": "🇹🇿",
+    "code": "TZ",
+    "currencyCodes": ["TZS"],
+    "wikiDataId": "Q924"
+  },
+  {
+    "name": "Papua New Guinea",
+    "callingCodes": "+675",
+    "text": "Papouasie-Nouvelle-Guinée",
+    "map": "🇵🇬",
+    "code": "PG",
+    "currencyCodes": ["PGK"],
+    "wikiDataId": "Q691"
+  },
+  {
+    "name": "Eritrea",
+    "callingCodes": "+291",
+    "text": "Érythrée",
+    "map": "🇪🇷",
+    "code": "ER",
+    "currencyCodes": ["ERN"],
+    "wikiDataId": "Q986"
+  },
+  {
+    "name": "Moldova",
+    "callingCodes": "+373",
+    "text": "Moldavie",
+    "map": "🇲🇩",
+    "code": "MD",
+    "currencyCodes": ["MDL"],
+    "wikiDataId": "Q217"
+  },
+  {
+    "name": "Uzbekistan",
+    "callingCodes": "+998",
+    "text": "Ouzbékistan",
+    "map": "🇺🇿",
+    "code": "UZ",
+    "currencyCodes": ["UZS"],
+    "wikiDataId": "Q265"
+  },
+  {
+    "name": "Uruguay",
+    "callingCodes": "+598",
+    "text": "Uruguay",
+    "map": "🇺🇾",
+    "code": "UY",
+    "currencyCodes": ["UYU"],
+    "wikiDataId": "Q77"
+  },
+  {
+    "name": "Saint Lucia",
+    "callingCodes": "+1758",
+    "text": "Sainte-Lucie",
+    "map": "🇱🇨",
+    "code": "LC",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q760"
+  },
+  {
+    "name": "Tuvalu",
+    "callingCodes": "+688",
+    "text": "Tuvalu",
+    "map": "🇹🇻",
+    "code": "TV",
+    "currencyCodes": ["AUD", "TVD"],
+    "wikiDataId": "Q672"
+  },
+  {
+    "name": "Canada",
+    "callingCodes": "+1",
+    "text": "Canada",
+    "map": "🇨🇦",
+    "code": "CA",
+    "currencyCodes": ["CAD"],
+    "wikiDataId": "Q16"
+  },
+  {
+    "name": "Switzerland",
+    "callingCodes": "+41",
+    "text": "Suisse",
+    "map": "🇨🇭",
+    "code": "CH",
+    "currencyCodes": ["CHF"],
+    "wikiDataId": "Q39"
+  },
+  {
+    "name": "Libya",
+    "callingCodes": "+218",
+    "text": "Libye",
+    "map": "🇱🇾",
+    "code": "LY",
+    "currencyCodes": ["LYD"],
+    "wikiDataId": "Q1016"
+  },
+  {
+    "name": "Monaco",
+    "callingCodes": "+377",
+    "text": "Monaco",
+    "map": "🇲🇨",
+    "code": "MC",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q235"
+  },
+  {
+    "name": "United Kingdom",
+    "callingCodes": "+44",
+    "text": "Royaume-Uni",
+    "map": "🇬🇧",
+    "code": "GB",
+    "currencyCodes": ["GBP"],
+    "wikiDataId": "Q145"
+  },
+  {
+    "name": "Rwanda",
+    "callingCodes": "+250",
+    "text": "Rwanda",
+    "map": "🇷🇼",
+    "code": "RW",
+    "currencyCodes": ["RWF"],
+    "wikiDataId": "Q1037"
+  },
+  {
+    "name": "Bhutan",
+    "callingCodes": "+975",
+    "text": "Bhoutan",
+    "map": "🇧🇹",
+    "code": "BT",
+    "currencyCodes": ["BTN"],
+    "wikiDataId": "Q917"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "callingCodes": "+590",
+    "text": "Saint-Barthélemy",
+    "map": "🇧🇱"
+  },
+  {
+    "name": "Botswana",
+    "callingCodes": "+267",
+    "text": "Botswana",
+    "map": "🇧🇼",
+    "code": "BW",
+    "currencyCodes": ["BWP"],
+    "wikiDataId": "Q963"
+  },
+  {
+    "name": "India",
+    "callingCodes": "+91",
+    "text": "Inde",
+    "map": "🇮🇳",
+    "code": "IN",
+    "currencyCodes": ["INR"],
+    "wikiDataId": "Q668"
+  },
+  {
+    "name": "New Zealand",
+    "callingCodes": "+64",
+    "text": "Nouvelle-Zélande",
+    "map": "🇳🇿",
+    "code": "NZ",
+    "currencyCodes": ["NZD"],
+    "wikiDataId": "Q664"
+  },
+  {
+    "name": "Ireland",
+    "callingCodes": "+353",
+    "text": "Irlande",
+    "map": "🇮🇪",
+    "code": "IE",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q27"
+  },
+  {
+    "name": "Macau",
+    "callingCodes": "+853",
+    "text": "Macao",
+    "map": "🇲🇴"
+  },
+  {
+    "name": "New Caledonia",
+    "callingCodes": "+687",
+    "text": "Nouvelle-Calédonie",
+    "map": "🇳🇨"
+  },
+  {
+    "name": "Bulgaria",
+    "callingCodes": "+359",
+    "text": "Bulgarie",
+    "map": "🇧🇬",
+    "code": "BG",
+    "currencyCodes": ["BGN"],
+    "wikiDataId": "Q219"
+  },
+  {
+    "name": "Eswatini",
+    "callingCodes": "+268",
+    "text": "Swaziland",
+    "map": "🇸🇿",
+    "code": "SZ",
+    "currencyCodes": ["SZL"],
+    "wikiDataId": "Q1050"
+  },
+  {
+    "name": "Venezuela",
+    "callingCodes": "+58",
+    "text": "Venezuela",
+    "map": "🇻🇪",
+    "code": "VE",
+    "currencyCodes": ["VES"],
+    "wikiDataId": "Q717"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "callingCodes": "+387",
+    "text": "Bosnie-Herzégovine",
+    "map": "🇧🇦",
+    "code": "BA",
+    "currencyCodes": ["BAM"],
+    "wikiDataId": "Q225"
+  },
+  {
+    "name": "Somalia",
+    "callingCodes": "+252",
+    "text": "Somalie",
+    "map": "🇸🇴",
+    "code": "SO",
+    "currencyCodes": ["SOS"],
+    "wikiDataId": "Q1045"
+  },
+  {
+    "name": "Norway",
+    "callingCodes": "+47",
+    "text": "Norvège",
+    "map": "🇳🇴",
+    "code": "NO",
+    "currencyCodes": ["NOK"],
+    "wikiDataId": "Q20"
+  },
+  {
+    "name": "Gambia",
+    "callingCodes": "+220",
+    "text": "Gambie",
+    "map": "🇬🇲"
+  },
+  {
+    "name": "Estonia",
+    "callingCodes": "+372",
+    "text": "Estonie",
+    "map": "🇪🇪",
+    "code": "EE",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q191"
+  },
+  {
+    "name": "Belize",
+    "callingCodes": "+501",
+    "text": "Belize",
+    "map": "🇧🇿",
+    "code": "BZ",
+    "currencyCodes": ["BZD"],
+    "wikiDataId": "Q242"
+  },
+  {
+    "name": "Paraguay",
+    "callingCodes": "+595",
+    "text": "Paraguay",
+    "map": "🇵🇾",
+    "code": "PY",
+    "currencyCodes": ["PYG"],
+    "wikiDataId": "Q733"
+  },
+  {
+    "name": "Luxembourg",
+    "callingCodes": "+352",
+    "text": "Luxembourg",
+    "map": "🇱🇺",
+    "code": "LU",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q32"
+  },
+  {
+    "name": "Jordan",
+    "callingCodes": "+962",
+    "text": "Jordanie",
+    "map": "🇯🇴",
+    "code": "JO",
+    "currencyCodes": ["JOD"],
+    "wikiDataId": "Q810"
+  },
+  {
+    "name": "Timor-Leste",
+    "callingCodes": "+670",
+    "text": "Timor oriental",
+    "map": "🇹🇱",
+    "code": "TL",
+    "currencyCodes": ["USD", "TLD"],
+    "wikiDataId": "Q574"
+  },
+  {
+    "name": "Zimbabwe",
+    "callingCodes": "+263",
+    "text": "Zimbabwe",
+    "map": "🇿🇼",
+    "code": "ZW",
+    "currencyCodes": ["USD"],
+    "wikiDataId": "Q954"
+  },
+  {
+    "name": "Mozambique",
+    "callingCodes": "+258",
+    "text": "Mozambique",
+    "map": "🇲🇿",
+    "code": "MZ",
+    "currencyCodes": ["MZN"],
+    "wikiDataId": "Q1029"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "callingCodes": "+599",
+    "text": "Pays-Bas caribéens"
+  },
+  {
+    "name": "Chile",
+    "callingCodes": "+56",
+    "text": "Chili",
+    "map": "🇨🇱",
+    "code": "CL",
+    "currencyCodes": ["CLP"],
+    "wikiDataId": "Q298"
+  },
+  {
+    "name": "Germany",
+    "callingCodes": "+49",
+    "text": "Allemagne",
+    "map": "🇩🇪",
+    "code": "DE",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q183"
+  },
+  {
+    "name": "El Salvador",
+    "callingCodes": "+503",
+    "text": "Salvador",
+    "map": "🇸🇻",
+    "code": "SV",
+    "currencyCodes": ["USD", "XBT"],
+    "wikiDataId": "Q792"
+  },
+  {
+    "name": "Guatemala",
+    "callingCodes": "+502",
+    "text": "Guatemala",
+    "map": "🇬🇹",
+    "code": "GT",
+    "currencyCodes": ["GTQ"],
+    "wikiDataId": "Q774"
+  },
+  {
+    "name": "Lesotho",
+    "callingCodes": "+266",
+    "text": "Lesotho",
+    "map": "🇱🇸",
+    "code": "LS",
+    "currencyCodes": ["LSL", "ZAR"],
+    "wikiDataId": "Q1013"
+  },
+  {
+    "name": "Peru",
+    "callingCodes": "+51",
+    "text": "Pérou",
+    "map": "🇵🇪",
+    "code": "PE",
+    "currencyCodes": ["PEN"],
+    "wikiDataId": "Q419"
+  },
+  {
+    "name": "Sint Maarten",
+    "callingCodes": "+1721",
+    "text": "Saint-Martin",
+    "map": "🇸🇽"
+  },
+  {
+    "name": "Djibouti",
+    "callingCodes": "+253",
+    "text": "Djibouti",
+    "map": "🇩🇯",
+    "code": "DJ",
+    "currencyCodes": ["DJF"],
+    "wikiDataId": "Q977"
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "callingCodes": "+262",
+    "text": "Terres australes et antarctiques françaises",
+    "map": "🇹🇫"
+  },
+  {
+    "name": "Australia",
+    "callingCodes": "+61",
+    "text": "Australie",
+    "map": "🇦🇺",
+    "code": "AU",
+    "currencyCodes": ["AUD"],
+    "wikiDataId": "Q408"
+  },
+  {
+    "name": "Chad",
+    "callingCodes": "+235",
+    "text": "Tchad",
+    "map": "🇹🇩",
+    "code": "TD",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q657"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "callingCodes": "+239",
+    "text": "São Tomé et Príncipe",
+    "map": "🇸🇹",
+    "code": "ST",
+    "currencyCodes": ["STN"],
+    "wikiDataId": "Q1039"
+  },
+  {
+    "name": "United States",
+    "callingCodes": "+1201",
+    "text": "États-Unis",
+    "map": "🇺🇸"
+  },
+  {
+    "name": "Spain",
+    "callingCodes": "+34",
+    "text": "Espagne",
+    "map": "🇪🇸",
+    "code": "ES",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q29"
+  },
+  {
+    "name": "Azerbaijan",
+    "callingCodes": "+994",
+    "text": "Azerbaïdjan",
+    "map": "🇦🇿",
+    "code": "AZ",
+    "currencyCodes": ["AZN"],
+    "wikiDataId": "Q227"
+  },
+  {
+    "name": "Denmark",
+    "callingCodes": "+45",
+    "text": "Danemark",
+    "map": "🇩🇰",
+    "code": "DK",
+    "currencyCodes": ["DKK"],
+    "wikiDataId": "Q35"
+  },
+  {
+    "name": "Fiji",
+    "callingCodes": "+679",
+    "text": "Fidji",
+    "map": "🇫🇯",
+    "code": "FJ",
+    "currencyCodes": ["FJD"],
+    "wikiDataId": "Q712"
+  },
+  {
+    "name": "Poland",
+    "callingCodes": "+48",
+    "text": "Pologne",
+    "map": "🇵🇱",
+    "code": "PL",
+    "currencyCodes": ["PLN"],
+    "wikiDataId": "Q36"
+  },
+  {
+    "name": "Sierra Leone",
+    "callingCodes": "+232",
+    "text": "Sierra Leone",
+    "map": "🇸🇱",
+    "code": "SL",
+    "currencyCodes": ["SLL"],
+    "wikiDataId": "Q1044"
+  },
+  {
+    "name": "Palestine",
+    "callingCodes": "+970",
+    "text": "Palestine",
+    "map": "🇵🇸"
+  },
+  {
+    "name": "Mauritania",
+    "callingCodes": "+222",
+    "text": "Mauritanie",
+    "map": "🇲🇷",
+    "code": "MR",
+    "currencyCodes": ["MRO"],
+    "wikiDataId": "Q1025"
+  },
+  {
+    "name": "Russia",
+    "callingCodes": "+73",
+    "text": "Russie",
+    "map": "🇷🇺",
+    "code": "RU",
+    "currencyCodes": ["RUB"],
+    "wikiDataId": "Q159"
+  },
+  {
+    "name": "Malta",
+    "callingCodes": "+356",
+    "text": "Malte",
+    "map": "🇲🇹",
+    "code": "MT",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q233"
+  },
+  {
+    "name": "Nicaragua",
+    "callingCodes": "+505",
+    "text": "Nicaragua",
+    "map": "🇳🇮",
+    "code": "NI",
+    "currencyCodes": ["NIO"],
+    "wikiDataId": "Q811"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "callingCodes": "+4779",
+    "text": "Svalbard et Jan Mayen",
+    "map": "🇸🇯"
+  },
+  {
+    "name": "San Marino",
+    "callingCodes": "+378",
+    "text": "Saint-Marin",
+    "map": "🇸🇲",
+    "code": "SM",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q238"
+  },
+  {
+    "name": "Ghana",
+    "callingCodes": "+233",
+    "text": "Ghana",
+    "map": "🇬🇭",
+    "code": "GH",
+    "currencyCodes": ["GHS"],
+    "wikiDataId": "Q117"
+  },
+  {
+    "name": "Honduras",
+    "callingCodes": "+504",
+    "text": "Honduras",
+    "map": "🇭🇳",
+    "code": "HN",
+    "currencyCodes": ["HNL"],
+    "wikiDataId": "Q783"
+  },
+  {
+    "name": "Maldives",
+    "callingCodes": "+960",
+    "text": "Maldives",
+    "map": "🇲🇻",
+    "code": "MV",
+    "currencyCodes": ["MVR"],
+    "wikiDataId": "Q826"
+  },
+  {
+    "name": "Nepal",
+    "callingCodes": "+977",
+    "text": "Népal",
+    "map": "🇳🇵",
+    "code": "NP",
+    "currencyCodes": ["NPR"],
+    "wikiDataId": "Q837"
+  },
+  {
+    "name": "Taiwan",
+    "callingCodes": "+886",
+    "text": "Taïwan",
+    "map": "🇹🇼",
+    "code": "TW",
+    "currencyCodes": ["TWD"],
+    "wikiDataId": "Q865"
+  },
+  {
+    "name": "Slovakia",
+    "callingCodes": "+421",
+    "text": "Slovaquie",
+    "map": "🇸🇰",
+    "code": "SK",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q214"
+  },
+  {
+    "name": "Lebanon",
+    "callingCodes": "+961",
+    "text": "Liban",
+    "map": "🇱🇧",
+    "code": "LB",
+    "currencyCodes": ["LBP"],
+    "wikiDataId": "Q822"
+  },
+  {
+    "name": "Oman",
+    "callingCodes": "+968",
+    "text": "Oman",
+    "map": "🇴🇲",
+    "code": "OM",
+    "currencyCodes": ["OMR"],
+    "wikiDataId": "Q842"
+  },
+  {
+    "name": "Niue",
+    "callingCodes": "+683",
+    "text": "Niue",
+    "map": "🇳🇺",
+    "code": "NU",
+    "currencyCodes": ["NZD", "NUD"],
+    "wikiDataId": "Q34020"
+  },
+  {
+    "name": "Anguilla",
+    "callingCodes": "+1264",
+    "text": "Anguilla",
+    "map": "🇦🇮"
+  },
+  {
+    "name": "Singapore",
+    "callingCodes": "+65",
+    "text": "Singapour",
+    "map": "🇸🇬",
+    "code": "SG",
+    "currencyCodes": ["SGD"],
+    "wikiDataId": "Q334"
+  },
+  {
+    "name": "Kosovo",
+    "callingCodes": "+383",
+    "text": "Kosovo",
+    "map": "🇽🇰"
+  },
+  {
+    "name": "Jersey",
+    "callingCodes": "+44",
+    "text": "Jersey",
+    "map": "🇯🇪"
+  },
+  {
+    "name": "Romania",
+    "callingCodes": "+40",
+    "text": "Roumanie",
+    "map": "🇷🇴",
+    "code": "RO",
+    "currencyCodes": ["RON"],
+    "wikiDataId": "Q218"
+  },
+  {
+    "name": "Slovenia",
+    "callingCodes": "+386",
+    "text": "Slovénie",
+    "map": "🇸🇮",
+    "code": "SI",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q215"
+  },
+  {
+    "name": "Isle of Man",
+    "callingCodes": "+44",
+    "text": "Île de Man",
+    "map": "🇮🇲"
+  },
+  {
+    "name": "Belarus",
+    "callingCodes": "+375",
+    "text": "Biélorussie",
+    "map": "🇧🇾",
+    "code": "BY",
+    "currencyCodes": ["BYN"],
+    "wikiDataId": "Q184"
+  },
+  {
+    "name": "Cuba",
+    "callingCodes": "+53",
+    "text": "Cuba",
+    "map": "🇨🇺",
+    "code": "CU",
+    "currencyCodes": ["CUC", "CUP"],
+    "wikiDataId": "Q241"
+  },
+  {
+    "name": "Montserrat",
+    "callingCodes": "+1664",
+    "text": "Montserrat",
+    "map": "🇲🇸"
+  },
+  {
+    "name": "Montenegro",
+    "callingCodes": "+382",
+    "text": "Monténégro",
+    "map": "🇲🇪",
+    "code": "ME",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q236"
+  },
+  {
+    "name": "Kiribati",
+    "callingCodes": "+686",
+    "text": "Kiribati",
+    "map": "🇰🇮",
+    "code": "KI",
+    "currencyCodes": ["AUD", "KID"],
+    "wikiDataId": "Q710"
+  },
+  {
+    "name": "Liechtenstein",
+    "callingCodes": "+423",
+    "text": "Liechtenstein",
+    "map": "🇱🇮",
+    "code": "LI",
+    "currencyCodes": ["CHF"],
+    "wikiDataId": "Q347"
+  },
+  {
+    "name": "Palau",
+    "callingCodes": "+680",
+    "text": "Palaos (Palau)",
+    "map": "🇵🇼",
+    "code": "PW",
+    "currencyCodes": ["USD"],
+    "wikiDataId": "Q695"
+  },
+  {
+    "name": "Réunion",
+    "callingCodes": "+262",
+    "text": "Réunion",
+    "map": "🇷🇪"
+  },
+  {
+    "name": "Saint Martin",
+    "callingCodes": "+590",
+    "text": "Saint-Martin",
+    "map": "🇲🇫"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "callingCodes": "+64",
+    "text": "Îles Pitcairn",
+    "map": "🇵🇳"
+  },
+  {
+    "name": "Falkland Islands",
+    "callingCodes": "+500",
+    "text": "Îles Malouines",
+    "map": "🇫🇰"
+  },
+  {
+    "name": "Sweden",
+    "callingCodes": "+46",
+    "text": "Suède",
+    "map": "🇸🇪",
+    "code": "SE",
+    "currencyCodes": ["SEK"],
+    "wikiDataId": "Q34"
+  },
+  {
+    "name": "Hungary",
+    "callingCodes": "+36",
+    "text": "Hongrie",
+    "map": "🇭🇺",
+    "code": "HU",
+    "currencyCodes": ["HUF"],
+    "wikiDataId": "Q28"
+  },
+  {
+    "name": "Morocco",
+    "callingCodes": "+212",
+    "text": "Maroc",
+    "map": "🇲🇦",
+    "code": "MA",
+    "currencyCodes": ["MAD"],
+    "wikiDataId": "Q1028"
+  },
+  {
+    "name": "Colombia",
+    "callingCodes": "+57",
+    "text": "Colombie",
+    "map": "🇨🇴",
+    "code": "CO",
+    "currencyCodes": ["COP"],
+    "wikiDataId": "Q739"
+  },
+  {
+    "name": "Sudan",
+    "callingCodes": "+249",
+    "text": "Soudan",
+    "map": "🇸🇩",
+    "code": "SD",
+    "currencyCodes": ["SDG"],
+    "wikiDataId": "Q1049"
+  },
+  {
+    "name": "Hong Kong",
+    "callingCodes": "+852",
+    "text": "Hong Kong",
+    "map": "🇭🇰",
+    "code": "HK",
+    "currencyCodes": ["HKD"],
+    "wikiDataId": "Q8646"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "callingCodes": "+290",
+    "text": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "map": "🇸🇭"
+  },
+  {
+    "name": "Turkmenistan",
+    "callingCodes": "+993",
+    "text": "Turkménistan",
+    "map": "🇹🇲",
+    "code": "TM",
+    "currencyCodes": ["TMT"],
+    "wikiDataId": "Q874"
+  },
+  {
+    "name": "Togo",
+    "callingCodes": "+228",
+    "text": "Togo",
+    "map": "🇹🇬",
+    "code": "TG",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q945"
+  },
+  {
+    "name": "Argentina",
+    "callingCodes": "+54",
+    "text": "Argentine",
+    "map": "🇦🇷",
+    "code": "AR",
+    "currencyCodes": ["ARS"],
+    "wikiDataId": "Q414"
+  },
+  {
+    "name": "Saudi Arabia",
+    "callingCodes": "+966",
+    "text": "Arabie Saoudite",
+    "map": "🇸🇦",
+    "code": "SA",
+    "currencyCodes": ["SAR"],
+    "wikiDataId": "Q851"
+  },
+  {
+    "name": "Bermuda",
+    "callingCodes": "+1441",
+    "text": "Bermudes",
+    "map": "🇧🇲"
+  },
+  {
+    "name": "Ecuador",
+    "callingCodes": "+593",
+    "text": "Équateur",
+    "map": "🇪🇨",
+    "code": "EC",
+    "currencyCodes": ["USD"],
+    "wikiDataId": "Q736"
+  },
+  {
+    "name": "Ethiopia",
+    "callingCodes": "+251",
+    "text": "Éthiopie",
+    "map": "🇪🇹",
+    "code": "ET",
+    "currencyCodes": ["ETB"],
+    "wikiDataId": "Q115"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "callingCodes": "+1869",
+    "text": "Saint-Christophe-et-Niévès",
+    "map": "🇰🇳",
+    "code": "KN",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q763"
+  },
+  {
+    "name": "Mauritius",
+    "callingCodes": "+230",
+    "text": "Île Maurice",
+    "map": "🇲🇺",
+    "code": "MU",
+    "currencyCodes": ["MUR"],
+    "wikiDataId": "Q1027"
+  },
+  {
+    "name": "Netherlands",
+    "callingCodes": "+31",
+    "text": "Pays-Bas",
+    "map": "🇳🇱",
+    "code": "NL",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q55"
+  },
+  {
+    "name": "Myanmar",
+    "callingCodes": "+95",
+    "text": "Birmanie",
+    "map": "🇲🇲",
+    "code": "MM",
+    "currencyCodes": ["MMK"],
+    "wikiDataId": "Q836"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "callingCodes": "+61",
+    "text": "Îles Cocos",
+    "map": "🇨🇨"
+  },
+  {
+    "name": "Liberia",
+    "callingCodes": "+231",
+    "text": "Liberia",
+    "map": "🇱🇷",
+    "code": "LR",
+    "currencyCodes": ["USD", "LRD"],
+    "wikiDataId": "Q1014"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "callingCodes": "+1649",
+    "text": "Îles Turques-et-Caïques",
+    "map": "🇹🇨"
+  },
+  {
+    "name": "Tunisia",
+    "callingCodes": "+216",
+    "text": "Tunisie",
+    "map": "🇹🇳",
+    "code": "TN",
+    "currencyCodes": ["TND"],
+    "wikiDataId": "Q948"
+  },
+  {
+    "name": "Finland",
+    "callingCodes": "+358",
+    "text": "Finlande",
+    "map": "🇫🇮",
+    "code": "FI",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q33"
+  },
+  {
+    "name": "Iceland",
+    "callingCodes": "+354",
+    "text": "Islande",
+    "map": "🇮🇸",
+    "code": "IS",
+    "currencyCodes": ["ISK"],
+    "wikiDataId": "Q189"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "callingCodes": "+1670",
+    "text": "Îles Mariannes du Nord",
+    "map": "🇲🇵"
+  },
+  {
+    "name": "Guam",
+    "callingCodes": "+1671",
+    "text": "Guam",
+    "map": "🇬🇺"
+  },
+  {
+    "name": "Jamaica",
+    "callingCodes": "+1876",
+    "text": "Jamaïque",
+    "map": "🇯🇲",
+    "code": "JM",
+    "currencyCodes": ["JMD"],
+    "wikiDataId": "Q766"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "callingCodes": "+1268",
+    "text": "Antigua-et-Barbuda",
+    "map": "🇦🇬",
+    "code": "AG",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q781"
+  },
+  {
+    "name": "Mongolia",
+    "callingCodes": "+976",
+    "text": "Mongolie",
+    "map": "🇲🇳",
+    "code": "MN",
+    "currencyCodes": ["MNT"],
+    "wikiDataId": "Q711"
+  },
+  {
+    "name": "Indonesia",
+    "callingCodes": "+62",
+    "text": "Indonésie",
+    "map": "🇮🇩",
+    "code": "ID",
+    "currencyCodes": ["IDR"],
+    "wikiDataId": "Q252"
+  },
+  {
+    "name": "Georgia",
+    "callingCodes": "+995",
+    "text": "Géorgie",
+    "map": "🇬🇪",
+    "code": "GE",
+    "currencyCodes": ["GEL"],
+    "wikiDataId": "Q230"
+  },
+  {
+    "name": "Albania",
+    "callingCodes": "+355",
+    "text": "Albanie",
+    "map": "🇦🇱",
+    "code": "AL",
+    "currencyCodes": ["ALL"],
+    "wikiDataId": "Q222"
+  },
+  {
+    "name": "Brazil",
+    "callingCodes": "+55",
+    "text": "Brésil",
+    "map": "🇧🇷",
+    "code": "BR",
+    "currencyCodes": ["BRL"],
+    "wikiDataId": "Q155"
+  },
+  {
+    "name": "Gibraltar",
+    "callingCodes": "+350",
+    "text": "Gibraltar",
+    "map": "🇬🇮"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "callingCodes": "+1784",
+    "text": "Saint-Vincent-et-les-Grenadines",
+    "map": "🇻🇨",
+    "code": "VC",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q757"
+  },
+  {
+    "name": "Iran",
+    "callingCodes": "+98",
+    "text": "Iran",
+    "map": "🇮🇷",
+    "code": "IR",
+    "currencyCodes": ["IRR"],
+    "wikiDataId": "Q794"
+  },
+  {
+    "name": "Portugal",
+    "callingCodes": "+351",
+    "text": "Portugal",
+    "map": "🇵🇹",
+    "code": "PT",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q45"
+  },
+  {
+    "name": "Dominica",
+    "callingCodes": "+1767",
+    "text": "Dominique",
+    "map": "🇩🇲",
+    "code": "DM",
+    "currencyCodes": ["XCD"],
+    "wikiDataId": "Q784"
+  },
+  {
+    "name": "South Korea",
+    "callingCodes": "+82",
+    "text": "Corée du Sud",
+    "map": "🇰🇷",
+    "code": "KR",
+    "currencyCodes": ["KRW"],
+    "wikiDataId": "Q884"
+  },
+  {
+    "name": "Angola",
+    "callingCodes": "+244",
+    "text": "Angola",
+    "map": "🇦🇴",
+    "code": "AO",
+    "currencyCodes": ["AOA"],
+    "wikiDataId": "Q916"
+  },
+  {
+    "name": "Comoros",
+    "callingCodes": "+269",
+    "text": "Comores",
+    "map": "🇰🇲",
+    "code": "KM",
+    "currencyCodes": ["KMF"],
+    "wikiDataId": "Q970"
+  },
+  {
+    "name": "Greece",
+    "callingCodes": "+30",
+    "text": "Grèce",
+    "map": "🇬🇷",
+    "code": "GR",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q41"
+  },
+  {
+    "name": "Belgium",
+    "callingCodes": "+32",
+    "text": "Belgique",
+    "map": "🇧🇪",
+    "code": "BE",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q31"
+  },
+  {
+    "name": "Puerto Rico",
+    "callingCodes": "+1787",
+    "text": "Porto Rico",
+    "map": "🇵🇷"
+  },
+  {
+    "name": "Republic of the Congo",
+    "callingCodes": "+242",
+    "text": "Congo",
+    "map": "🇨🇬",
+    "code": "CG",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q971"
+  },
+  {
+    "name": "Barbados",
+    "callingCodes": "+1246",
+    "text": "Barbade",
+    "map": "🇧🇧",
+    "code": "BB",
+    "currencyCodes": ["BBD"],
+    "wikiDataId": "Q244"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "callingCodes": "+240",
+    "text": "Guinée équatoriale",
+    "map": "🇬🇶",
+    "code": "GQ",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q983"
+  },
+  {
+    "name": "Thailand",
+    "callingCodes": "+66",
+    "text": "Thaïlande",
+    "map": "🇹🇭",
+    "code": "TH",
+    "currencyCodes": ["THB"],
+    "wikiDataId": "Q869"
+  },
+  {
+    "name": "Christmas Island",
+    "callingCodes": "+61",
+    "text": "Île Christmas",
+    "map": "🇨🇽"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "callingCodes": "+245",
+    "text": "Guinée-Bissau",
+    "map": "🇬🇼",
+    "code": "GW",
+    "currencyCodes": ["XOF"],
+    "wikiDataId": "Q1007"
+  },
+  {
+    "name": "Panama",
+    "callingCodes": "+507",
+    "text": "Panama",
+    "map": "🇵🇦",
+    "code": "PA",
+    "currencyCodes": ["PAB", "USD"],
+    "wikiDataId": "Q804"
+  },
+  {
+    "name": "Latvia",
+    "callingCodes": "+371",
+    "text": "Lettonie",
+    "map": "🇱🇻",
+    "code": "LV",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q211"
+  },
+  {
+    "name": "Guyana",
+    "callingCodes": "+592",
+    "text": "Guyana",
+    "map": "🇬🇾",
+    "code": "GY",
+    "currencyCodes": ["GYD"],
+    "wikiDataId": "Q734"
+  },
+  {
+    "name": "Lithuania",
+    "callingCodes": "+370",
+    "text": "Lituanie",
+    "map": "🇱🇹",
+    "code": "LT",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q37"
+  },
+  {
+    "name": "Yemen",
+    "callingCodes": "+967",
+    "text": "Yémen",
+    "map": "🇾🇪",
+    "code": "YE",
+    "currencyCodes": ["YER"],
+    "wikiDataId": "Q805"
+  },
+  {
+    "name": "Martinique",
+    "callingCodes": "+596",
+    "text": "Martinique",
+    "map": "🇲🇶"
+  },
+  {
+    "name": "French Guiana",
+    "callingCodes": "+594",
+    "text": "Guyane",
+    "map": "🇬🇫"
+  },
+  {
+    "name": "Suriname",
+    "callingCodes": "+597",
+    "text": "Surinam",
+    "map": "🇸🇷",
+    "code": "SR",
+    "currencyCodes": ["SRD"],
+    "wikiDataId": "Q730"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "callingCodes": "+268",
+    "text": "Îles mineures éloignées des États-Unis",
+    "map": "🇺🇲"
+  },
+  {
+    "name": "Cyprus",
+    "callingCodes": "+357",
+    "text": "Chypre",
+    "map": "🇨🇾",
+    "code": "CY",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q229"
+  },
+  {
+    "name": "Cape Verde",
+    "callingCodes": "+238",
+    "text": "Îles du Cap-Vert",
+    "map": "🇨🇻",
+    "code": "CV",
+    "currencyCodes": ["CVE"],
+    "wikiDataId": "Q1011"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "callingCodes": "+681",
+    "text": "Wallis-et-Futuna",
+    "map": "🇼🇫"
+  },
+  {
+    "name": "Mayotte",
+    "callingCodes": "+262",
+    "text": "Mayotte",
+    "map": "🇾🇹"
+  },
+  {
+    "name": "Vietnam",
+    "callingCodes": "+84",
+    "text": "Viêt Nam",
+    "map": "🇻🇳",
+    "code": "VN",
+    "currencyCodes": ["VND"],
+    "wikiDataId": "Q881"
+  },
+  {
+    "name": "French Polynesia",
+    "callingCodes": "+689",
+    "text": "Polynésie française",
+    "map": "🇵🇫"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "callingCodes": "+1868",
+    "text": "Trinité-et-Tobago",
+    "map": "🇹🇹",
+    "code": "TT",
+    "currencyCodes": ["TTD"],
+    "wikiDataId": "Q754"
+  },
+  {
+    "name": "Malawi",
+    "callingCodes": "+265",
+    "text": "Malawi",
+    "map": "🇲🇼",
+    "code": "MW",
+    "currencyCodes": ["MWK"],
+    "wikiDataId": "Q1020"
+  },
+  {
+    "name": "Croatia",
+    "callingCodes": "+385",
+    "text": "Croatie",
+    "map": "🇭🇷",
+    "code": "HR",
+    "currencyCodes": ["HRK"],
+    "wikiDataId": "Q224"
+  },
+  {
+    "name": "Madagascar",
+    "callingCodes": "+261",
+    "text": "Madagascar",
+    "map": "🇲🇬",
+    "code": "MG",
+    "currencyCodes": ["MGA"],
+    "wikiDataId": "Q1019"
+  },
+  {
+    "name": "Armenia",
+    "callingCodes": "+374",
+    "text": "Arménie",
+    "map": "🇦🇲",
+    "code": "AM",
+    "currencyCodes": ["AMD"],
+    "wikiDataId": "Q399"
+  },
+  {
+    "name": "Austria",
+    "callingCodes": "+43",
+    "text": "Autriche",
+    "map": "🇦🇹",
+    "code": "AT",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q40"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "callingCodes": "+508",
+    "text": "Saint-Pierre-et-Miquelon",
+    "map": "🇵🇲"
+  },
+  {
+    "name": "Afghanistan",
+    "callingCodes": "+93",
+    "text": "Afghanistan",
+    "map": "🇦🇫",
+    "code": "AF",
+    "currencyCodes": ["AFN"],
+    "wikiDataId": "Q889"
+  },
+  {
+    "name": "Central African Republic",
+    "callingCodes": "+236",
+    "text": "République centrafricaine",
+    "map": "🇨🇫",
+    "code": "CF",
+    "currencyCodes": ["XAF"],
+    "wikiDataId": "Q929"
+  },
+  {
+    "name": "Zambia",
+    "callingCodes": "+260",
+    "text": "Zambie",
+    "map": "🇿🇲",
+    "code": "ZM",
+    "currencyCodes": ["ZMW"],
+    "wikiDataId": "Q953"
+  },
+  {
+    "name": "Bangladesh",
+    "callingCodes": "+880",
+    "text": "Bangladesh",
+    "map": "🇧🇩",
+    "code": "BD",
+    "currencyCodes": ["BDT"],
+    "wikiDataId": "Q902"
+  },
+  {
+    "name": "Costa Rica",
+    "callingCodes": "+506",
+    "text": "Costa Rica",
+    "map": "🇨🇷",
+    "code": "CR",
+    "currencyCodes": ["CRC"],
+    "wikiDataId": "Q800"
+  },
+  {
+    "name": "Faroe Islands",
+    "callingCodes": "+298",
+    "text": "Îles Féroé",
+    "map": "🇫🇴"
+  },
+  {
+    "name": "Uganda",
+    "callingCodes": "+256",
+    "text": "Ouganda",
+    "map": "🇺🇬",
+    "code": "UG",
+    "currencyCodes": ["UGX"],
+    "wikiDataId": "Q1036"
+  },
+  {
+    "name": "Kazakhstan",
+    "callingCodes": "+76",
+    "text": "Kazakhstan",
+    "map": "🇰🇿",
+    "code": "KZ",
+    "currencyCodes": ["KZT"],
+    "wikiDataId": "Q232"
+  },
+  {
+    "name": "Bouvet Island",
+    "callingCodes": "+47",
+    "text": "Île Bouvet",
+    "map": "🇧🇻"
+  },
+  {
+    "name": "South Georgia",
+    "callingCodes": "+500",
+    "text": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+    "map": "🇬🇸"
+  },
+  {
+    "name": "Tonga",
+    "callingCodes": "+676",
+    "text": "Tonga",
+    "map": "🇹🇴",
+    "code": "TO",
+    "currencyCodes": ["TOP"],
+    "wikiDataId": "Q678"
+  },
+  {
+    "name": "Ukraine",
+    "callingCodes": "+380",
+    "text": "Ukraine",
+    "map": "🇺🇦",
+    "code": "UA",
+    "currencyCodes": ["UAH"],
+    "wikiDataId": "Q212"
+  },
+  {
+    "name": "Qatar",
+    "callingCodes": "+974",
+    "text": "Qatar",
+    "map": "🇶🇦",
+    "code": "QA",
+    "currencyCodes": ["QAR"],
+    "wikiDataId": "Q846"
+  },
+  {
+    "name": "Andorra",
+    "callingCodes": "+376",
+    "text": "Andorre",
+    "map": "🇦🇩",
+    "code": "AD",
+    "currencyCodes": ["EUR"],
+    "wikiDataId": "Q228"
+  },
+  {
+    "name": "Iraq",
+    "callingCodes": "+964",
+    "text": "Irak",
+    "map": "🇮🇶",
+    "code": "IQ",
+    "currencyCodes": ["IQD"],
+    "wikiDataId": "Q796"
+  },
+  {
+    "name": "Sri Lanka",
+    "callingCodes": "+94",
+    "text": "Sri Lanka",
+    "map": "🇱🇰",
+    "code": "LK",
+    "currencyCodes": ["LKR"],
+    "wikiDataId": "Q854"
+  },
+  {
+    "name": "Japan",
+    "callingCodes": "+81",
+    "text": "Japon",
+    "map": "🇯🇵",
+    "code": "JP",
+    "currencyCodes": ["JPY"],
+    "wikiDataId": "Q17"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "callingCodes": "+996",
+    "text": "Kirghizistan",
+    "map": "🇰🇬",
+    "code": "KG",
+    "currencyCodes": ["KGS"],
+    "wikiDataId": "Q813"
+  },
+  {
+    "name": "Philippines",
+    "callingCodes": "+63",
+    "text": "Philippines",
+    "map": "🇵🇭",
+    "code": "PH",
+    "currencyCodes": ["PHP"],
+    "wikiDataId": "Q928"
+  },
+  {
+    "name": "Pakistan",
+    "callingCodes": "+92",
+    "text": "Pakistan",
+    "map": "🇵🇰",
+    "code": "PK",
+    "currencyCodes": ["PKR"],
+    "wikiDataId": "Q843"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "callingCodes": "+246",
+    "text": "Territoire britannique de l'océan Indien",
+    "map": "🇮🇴"
+  }
+]

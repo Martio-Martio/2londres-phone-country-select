@@ -1,0 +1,66 @@
+{
+  "name": "@klemi/phone-country-select",
+  "version": "1.0.0",
+  "description": "Searchable phone country code selector with per-country digit validation for React",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./styles.css": "./dist/styles.css"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "pnpm run build"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "dependencies": {
+    "@radix-ui/react-popover": "^1.1.14",
+    "cmdk": "^1.1.1",
+    "lucide-react": ">=0.300.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "tsup": "^8.4.0",
+    "typescript": "~5.7.2"
+  },
+  "keywords": [
+    "react",
+    "phone",
+    "country",
+    "select",
+    "combobox",
+    "calling-code",
+    "international",
+    "searchable",
+    "validation"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klemi-tech/phone-country-select"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}
